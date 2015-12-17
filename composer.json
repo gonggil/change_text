@@ -1,0 +1,17 @@
+{
+    "name": "gonggil/changetext",
+    "type": "library",
+    "description": "change text test",
+    "keywords": ["changetext"],
+    "require": {
+      	"php": ">=5.3"
+    },
+    "version": "1.0.0-dev",
+    "authors": [
+        {
+            "name": "gonggil",
+            "email": "gonggil@enjoyworks.co.kr"
+        }
+    ]
+}
+
