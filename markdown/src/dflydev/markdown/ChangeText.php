@@ -1,5 +1,5 @@
 <?php 
-namespace gonggil\change_text;
+namespace dflydev\markdown;
 class ChangeText {
 	
 	function changeToUpper($str){
