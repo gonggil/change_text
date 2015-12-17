@@ -14,7 +14,7 @@
         }
     ],
     "autoload": {
-        "psr-0": { "gonggil\changetext": "src" }
+        "psr-0": { "gonggil/changetext": "src" }
     }
 }
 
