@@ -12,6 +12,9 @@
             "name": "gonggil",
             "email": "gonggil@enjoyworks.co.kr"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": { "gonggil/changetext": "src" }
+    },
 }
 
