@@ -1,5 +1,5 @@
 <?php 
-namespace gonggil\change_text;
+namespace gonggil\changetext;
 class ChangeText {
 	
 	function changeToUpper($str){

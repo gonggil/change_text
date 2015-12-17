@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace gonggil\change_text;
+namespace gonggil\changetext;
 
 class MarkdownParser implements IMarkdownParser {
 
